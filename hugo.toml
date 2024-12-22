@@ -2,7 +2,7 @@ baseURL = "https://tos.estk.me"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "eSTK.me ToS"
+title = "ESTKme ToS"
 theme = "hugo-theme-relearn"
 
 [params]
@@ -18,7 +18,7 @@ theme = "hugo-theme-relearn"
 # This will be used in HTML meta tags, the opengraph protocol and twitter
 # cards.
 # You can also set `author.email` if you want to publish this information.
-author.name = "eSTK.me Group"
+author.name = "ESTKme Technology Limited"
 
 
 # The description of your site.
@@ -26,7 +26,7 @@ author.name = "eSTK.me Group"
 # This is used for generating HTML meta tags, social media meta information
 # for the opengraph protocol and twitter cards.
 # This can be overridden in the page's frontmatter.
-description = "eSTK.me ToS"
+description = ""
 
 ###############################################################################
 # Relearn Theme
@@ -93,7 +93,7 @@ disableRandomIds = false
 # support for all used languages of your site.
 # This is handy for example if you are writing in Spanish but have lots of
 # source code on your page which typically uses English terminology.
-additionalContentLanguage = [ "id" ]
+additionalContentLanguage = [ "zh_cn" ]
 
 # Additional code dependencies.
 # Default: See hugo.toml of the theme
@@ -132,7 +132,7 @@ disableNextPrev = true
 # relative file path of a the displayed page. The URL must end with a `/`.
 # This is useful if you wnat to give the opportunity for people to create merge
 #  request for your content.
-editURL = "https://github.com/estkme-group/estkme-tos/tree/main/content/"
+editURL = ""
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Menu
@@ -295,11 +295,11 @@ imageEffects.lightbox = true
 imageEffects.shadow = false
 
 [Languages.en]
-title = "eSTK.me ToS"
+title = "ESTKme ToS"
 weight = 1
 languageName = "English"
 
-[Languages.id]
-title = "eSTK.me ToS"
+[Languages.zh_cn]
+title = "ESTKme ToS"
 weight = 2
-languageName = "Indonesia"
+languageName = "简体中文"
