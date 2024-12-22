@@ -1,4 +1,5 @@
 ---
+description: Privacy Policy of eSTK.me app
 title: Privacy Policy
 weight: 1
 ---
