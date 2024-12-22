@@ -2,6 +2,8 @@
 description: Privacy Policy of eSTK.me app
 title: Privacy Policy
 weight: 1
+aliases:
+  - /lpa_software/privacypolicy/
 ---
 
 ## Privacy Policy {#privacy-policy}
