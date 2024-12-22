@@ -1,9 +1,9 @@
-# ESTKme Technology Limited Term of Service 
+# ESTKme Technology Limited Terms of Service 
 
-You can check ToS and change history here.
+You can check Terms of Service and change history here.
 
-* * *
+----
 
 ESTKme Technology Limited
 
-Copyright 2023-Present, All right reserved.
+Copyright &copy; 2023 - Present, All right reserved.

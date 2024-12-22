@@ -1,0 +1,40 @@
+baseURL: https://tos.estk.me
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+title: ESTKme Terms of Services
+
+theme: hugo-theme-relearn
+
+languages:
+  en:
+    weight: 1
+    languageCode: en
+    languageName: English
+  zh-cn:
+    weight: 2
+    languageCode: zh-cn
+    languageName: 简体中文
+
+params:
+  author:
+    name: ESTKme Technology Limited
+  alwaysopen: false
+  breadcrumbSeparator: ">"
+  collapsibleMenu: true
+  disableBreadcrumb: true
+  disableInlineCopyToClipBoard: true
+  disableNextPrev: true
+  disableRootBreadcrumb: true
+  disableSeoHiddenPages: true
+  disableToc: true
+  highlightWrap: true
+  ordersectionsby: weight
+  showVisitedLinks: false
+  themeVariant: [auto, blue]
+  titleSeparator: "-"
+  imageEffects:
+    border: true
+    lightbox: true
+    shadow: false
