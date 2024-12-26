@@ -3,6 +3,8 @@ baseURL: https://tos.estk.me
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
+enableGitInfo: true
+
 title: ESTKme Terms of Services
 
 theme: hugo-theme-relearn

@@ -1,0 +1,5 @@
+{{- if .Content }}
+{{- with .GitInfo }}
+<p>{{- T "last-updated-timestamp" .CommitDate -}}</p>
+{{- end }}
+{{- end }}

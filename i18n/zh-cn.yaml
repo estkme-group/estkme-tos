@@ -1,0 +1,1 @@
+last-updated-timestamp: 本文档最后更新于 {{ .Format "2006 年 01 月 02 日" }}

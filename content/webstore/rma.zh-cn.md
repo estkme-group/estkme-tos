@@ -74,5 +74,3 @@ description: ESTKme Web Store 的退货与退款政策
 ## 联系我们 {#contact-us}
 
 若阁下就本政策希望联系我们，请发送电子邮件至 <inquiry@estk.me>
-
-本文档最后更新于 2024 年 12 月 4 日
