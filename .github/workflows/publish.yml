@@ -27,10 +27,12 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
         run: hugo --gc --minify
+      - name: Cleanup
+        run: (cd public/js; rm -rf d3 mathjax swagger-ui mermaid.min.js)
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: public
 
   deploy:
     runs-on: ubuntu-24.04
@@ -44,4 +46,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
