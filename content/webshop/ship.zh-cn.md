@@ -70,12 +70,16 @@ aliases:
 ## 收费例外 {#charge-exception}
 
 我们可能就合规及反诈欺等考虑而取消部分订单。
-对于这些订单，阁下可获全额退款而不适用于前款所述之[处理费用]({{% ref "#processing-fee" %}})。
+若阁下已向我们付款，则可获全额退款而不适用于前款所述之[处理费用]({{% ref "#processing-fee" %}})。
 此类订单包括但不限于：
 
 - 存在高风险行为或疑似未经授权支付
 - 收货地址为非民用设施
 - 我司选择之快递服务商拒绝承运阁下之订单
+- 受美国商务部《[出口管理条例][EAR]》或[外国资产控制办公室][OFAC]限制
+
+[EAR]: https://www.bis.gov/regulations
+[OFAC]: https://ofac.treasury.gov
 
 ## 联系我们 {#contact-us}
 
