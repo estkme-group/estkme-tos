@@ -83,4 +83,4 @@ aliases:
 
 ## 联系我们 {#contact-us}
 
-若阁下就本政策希望联系我们，请发送电子邮件至 <inquiry@estk.me>
+若阁下就本政策希望联系我们，请发送电子邮件至 <compliance@estk.me>

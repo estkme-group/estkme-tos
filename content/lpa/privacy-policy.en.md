@@ -46,7 +46,7 @@ Since The Service Provider cannot identify the data and its association with spe
 
 The Application is a utility software and does not require account registration process, the Service Provider cannot know the age of user.
 
-If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (<inquiry@estk.me>) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (<compliance@estk.me>) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
 ## Security {#security}
 
@@ -64,4 +64,4 @@ By using the Application, you are consenting to the processing of your informati
 
 ## Contact Us {#contact-us}
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at <inquiry@estk.me>.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at <compliance@estk.me>.
